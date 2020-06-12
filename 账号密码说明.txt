@@ -1,0 +1,7 @@
+db：book_ordering
+user：root
+password：123456
+
+学生用户 账号 10000 密码 123qwe
+学院管理员 账号 20000 密码 456qwe
+书商管理员 账号 30000 密码 789qwe
